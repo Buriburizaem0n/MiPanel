@@ -130,5 +130,16 @@
     "targetPrice": null,
     "actualPrice": 0,
     "notes": "electronic Id"
+  },
+  {
+    "domainFull": "ouov.de",
+    "registrar": "netcup",
+    "registerDate": "2025-08-27",
+    "expireDate": "2026-08-27",
+    "registerPrice": 25,
+    "renewPrice": 12,
+    "targetPrice": null,
+    "actualPrice": 0,
+    "notes": "electronic Id"
   }
 ]
