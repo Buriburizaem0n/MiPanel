@@ -179,11 +179,6 @@ let domains = loadDomains();
 /* ========== 首次初始化：如果本地为空，写入默认数据 ========== */
 if (!domains.length) {
   domains = [
-    { domainFull: 'evan.xin',   registrar: 'Spaceship', registerDate: '2023-05-20', expireDate: '2026-05-20', registerPrice: 100, renewPrice: 100, targetPrice: 500,  actualPrice: 500, notes: '这是我的博客' },
-    { domainFull: 'evan.plus',  registrar: 'Spaceship', registerDate: '2023-05-20', expireDate: '2026-05-20', registerPrice: 100, renewPrice: 100, targetPrice: 500,  actualPrice: 500, notes: '' },
-    { domainFull: 'evan.top',   registrar: 'Spaceship', registerDate: '2023-05-20', expireDate: '2026-05-20', registerPrice: 100, renewPrice: 100, targetPrice: 500, actualPrice: 500, notes: '' },
-    { domainFull: 'evanmi.top', registrar: 'Spaceship', registerDate: '2023-05-20', expireDate: '2026-05-20', registerPrice: 100, renewPrice: 100, targetPrice: 500, actualPrice: 500, notes: '' },
-    { domainFull: 'shebao.cx',  registrar: 'Spaceship', registerDate: '2023-05-20', expireDate: '2026-05-20', registerPrice: 100, renewPrice: 100, targetPrice: 500, actualPrice: 500, notes: '' }
   ];
   saveDomains();
 }
