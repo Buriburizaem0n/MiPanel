@@ -122,11 +122,11 @@
   },
   {
     "domainFull": "eic.cc",
-    "registrar": "aliyun",
+    "registrar": "spaceship",
     "registerDate": "2014-08-01",
-    "expireDate": "2026-08-01",
+    "expireDate": "2027-08-01",
     "registerPrice": 72,
-    "renewPrice": 75,
+    "renewPrice": 59,
     "targetPrice": null,
     "actualPrice": 0,
     "notes": "electronic Id"
