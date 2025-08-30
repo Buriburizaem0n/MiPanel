@@ -1,0 +1,134 @@
+[
+  {
+    "domainFull": "qsj.net",
+    "registrar": "spaceship",
+    "registerDate": "2024-03-27",
+    "expireDate": "2027-03-27",
+    "registerPrice": 80,
+    "renewPrice": 80,
+    "targetPrice": null,
+    "actualPrice": 0,
+    "notes": "全世界Internet"
+  },
+  {
+    "domainFull": "mqwq.com",
+    "registrar": "spaceship",
+    "registerDate": "2024-11-11",
+    "expireDate": "2027-11-11",
+    "registerPrice": 72,
+    "renewPrice": 72,
+    "targetPrice": null,
+    "actualPrice": 0,
+    "notes": "qwq"
+  },
+  {
+    "domainFull": "loohui.com",
+    "registrar": "spaceship",
+    "registerDate": "2025-07-01",
+    "expireDate": "2035-07-01",
+    "registerPrice": 72,
+    "renewPrice": 72,
+    "targetPrice": null,
+    "actualPrice": 0,
+    "notes": "Blog domain"
+  },
+  {
+    "domainFull": "learnchive.com",
+    "registrar": "spaceship",
+    "registerDate": "2025-07-21",
+    "expireDate": "2035-07-21",
+    "registerPrice": 72,
+    "renewPrice": 72,
+    "targetPrice": null,
+    "actualPrice": 0,
+    "notes": "项目域名"
+  },
+  {
+    "domainFull": "662612.xyz",
+    "registrar": "spaceship",
+    "registerDate": "2025-07-01",
+    "expireDate": "2035-07-01",
+    "registerPrice": 72,
+    "renewPrice": 4,
+    "targetPrice": null,
+    "actualPrice": 0,
+    "notes": ""
+  },
+  {
+    "domainFull": "310502.xyz",
+    "registrar": "spaceship",
+    "registerDate": "2025-07-01",
+    "expireDate": "2035-07-01",
+    "registerPrice": 72,
+    "renewPrice": 4,
+    "targetPrice": null,
+    "actualPrice": 0,
+    "notes": ""
+  },
+  {
+    "domainFull": "345674.xyz",
+    "registrar": "spaceship",
+    "registerDate": "2025-07-01",
+    "expireDate": "2035-07-01",
+    "registerPrice": 72,
+    "renewPrice": 4,
+    "targetPrice": null,
+    "actualPrice": 0,
+    "notes": "34567"
+  },
+  {
+    "domainFull": "4555556.xyz",
+    "registrar": "spaceship",
+    "registerDate": "2025-07-01",
+    "expireDate": "2035-07-01",
+    "registerPrice": 72,
+    "renewPrice": 4,
+    "targetPrice": null,
+    "actualPrice": 0,
+    "notes": "456, 5个5"
+  },
+  {
+    "domainFull": "kk.al",
+    "registrar": "quyu",
+    "registerDate": "2019-12-16",
+    "expireDate": "2026-01-12",
+    "registerPrice": 72,
+    "renewPrice": 99,
+    "targetPrice": null,
+    "actualPrice": 0,
+    "notes": "short domain"
+  },
+  {
+    "domainFull": "ez.gs",
+    "registrar": "西部数码国际",
+    "registerDate": "2016-05-10",
+    "expireDate": "2026-05-10",
+    "registerPrice": 72,
+    "renewPrice": 68,
+    "targetPrice": null,
+    "actualPrice": 0,
+    "notes": "short domain"
+  },
+  {
+    "domainFull": "studyhub.cn",
+    "registrar": "aliyun",
+    "registerDate": "2025-08-09",
+    "expireDate": "2035-08-09",
+    "registerPrice": 39,
+    "renewPrice": 39,
+    "targetPrice": null,
+    "actualPrice": 0,
+    "notes": "项目域名"
+  },
+  {
+    "domainFull": "eic.cc",
+    "registrar": "aliyun",
+    "registerDate": "2014-08-01",
+    "expireDate": "2026-08-01",
+    "registerPrice": 72,
+    "renewPrice": 75,
+    "targetPrice": null,
+    "actualPrice": 0,
+    "notes": "electronic Id"
+  }
+]
