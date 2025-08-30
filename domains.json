@@ -141,5 +141,16 @@
     "targetPrice": null,
     "actualPrice": 0,
     "notes": "electronic Id"
+  },
+  {
+    "domainFull": "3-a.games",
+    "registrar": "spaceship",
+    "registerDate": "2025-08-30",
+    "expireDate": "2026-08-30",
+    "registerPrice": 48,
+    "renewPrice": 167,
+    "targetPrice": null,
+    "actualPrice": 0,
+    "notes": "electronic Id"
   }
 ]
