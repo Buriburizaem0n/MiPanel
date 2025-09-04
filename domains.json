@@ -152,5 +152,16 @@
     "targetPrice": null,
     "actualPrice": 0,
     "notes": "Triple A Games"
+  },
+  {
+    "domainFull": "error.cx",
+    "registrar": "365.hk",
+    "registerDate": "2025-09-04",
+    "expireDate": "2026-09-04",
+    "registerPrice": 68,
+    "renewPrice": 68,
+    "targetPrice": null,
+    "actualPrice": 0,
+    "notes": "error"
   }
 ]
