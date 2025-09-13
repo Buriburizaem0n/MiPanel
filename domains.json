@@ -134,8 +134,8 @@
   {
     "domainFull": "310502.xyz",
     "registrar": "spaceship",
-    "registerDate": "2025-07-01",
-    "expireDate": "2035-07-01",
+    "registerDate": "2025-07-07",
+    "expireDate": "2035-07-07",
     "registerPrice": 72,
     "renewPrice": 4,
     "targetPrice": null,
@@ -145,8 +145,8 @@
   {
     "domainFull": "345674.xyz",
     "registrar": "spaceship",
-    "registerDate": "2025-07-01",
-    "expireDate": "2035-07-01",
+    "registerDate": "2025-05-11",
+    "expireDate": "2035-05-11",
     "registerPrice": 72,
     "renewPrice": 4,
     "targetPrice": null,
@@ -156,12 +156,34 @@
   {
     "domainFull": "4555556.xyz",
     "registrar": "spaceship",
-    "registerDate": "2025-07-01",
-    "expireDate": "2035-07-01",
+    "registerDate": "2025-07-08",
+    "expireDate": "2035-07-08",
     "registerPrice": 72,
     "renewPrice": 4,
     "targetPrice": null,
     "actualPrice": 0,
     "notes": "456, 5个5"
+  },
+  {
+    "domainFull": "eez.ee",
+    "registrar": "quyu",
+    "registerDate": "2025-08-15",
+    "expireDate": "2026-08-15",
+    "registerPrice": 72,
+    "renewPrice": 69,
+    "targetPrice": null,
+    "actualPrice": 0,
+    "notes": "eezee"
+  },
+  {
+    "domainFull": "lldd.cc",
+    "registrar": "Dynadot",
+    "registerDate": "2025-08-17",
+    "expireDate": "2026-08-17",
+    "registerPrice": 48,
+    "renewPrice": 77,
+    "targetPrice": null,
+    "actualPrice": 0,
+    "notes": "唠唠叨叨"
   }
 ]
